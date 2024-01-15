@@ -1,7 +1,6 @@
 from .martingaleSim import MartingaleSim
 import matplotlib.pyplot as plt
-from baccarat.martingale import Martingale
-from baccarat.player import Player
+
 
 
 
