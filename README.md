@@ -5,6 +5,7 @@ baccarat game is standard such as dealings and rules for winner
 
 
 Initially this is only martingale strategy: which follows the following algorith
+
 1: bet 1 unit on banker.
 
 2: if win: go back to step 1. else: bet 1 unit on Player
